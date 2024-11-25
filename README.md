@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3trn&label=Profile%20views&color=0e75b6&style=flat" alt="3trn" /> </p>
 
 - 🐤 I’m currently working on [Flappy Bird](https://github.com/3trn/Flappy-Bird)
-
-- 👨‍💻 All of my projects are available at [https://github.com/3trn](https://github.com/3trn)
+- 👥 I'm currently collaborating on [Code Sorcerers](https://github.com/waffdev/CodeSorcerersGame)
+- 👨‍💻 All of my projects are available at [Profile]([https://github.com/3trn](https://github.com/3trn?tab=repositories))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
