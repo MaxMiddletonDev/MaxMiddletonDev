@@ -5,7 +5,7 @@
 
 - 🐤 I’m currently working on [Flappy Bird](https://github.com/3trn/Flappy-Bird)
 - 👥 I'm currently collaborating on [Code Sorcerers](https://github.com/waffdev/CodeSorcerersGame)
-- 👨‍💻 All of my projects are available at [Profile](https://github.com/3trn?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/3trn?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
