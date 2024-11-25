@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3trn&label=Profile%20views&color=0e75b6&style=flat" alt="3trn" /> </p>
-
 - 🐤 I’m currently working on [Flappy Bird](https://github.com/3trn/Flappy-Bird)
 - 👥 I'm currently collaborating on [Code Sorcerers](https://github.com/waffdev/CodeSorcerersGame)
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/3trn?tab=repositories)
