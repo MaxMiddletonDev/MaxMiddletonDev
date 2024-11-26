@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 - 🐤 I’m currently working on [Flappy Bird](https://github.com/3trn/Flappy-Bird)
 - 👥 I'm currently collaborating on [Code Sorcerers](https://github.com/waffdev/CodeSorcerersGame)
