@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-- 🐤 I’m currently working on [Flappy Bird](https://github.com/3trn/Tip-Calculator)
+- 🐤 I’m currently working on [Tip Calculator](https://github.com/3trn/Tip-Calculator)
 - 👥 I'm currently collaborating on [Code Sorcerers](https://github.com/waffdev/CodeSorcerersGame)
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/3trn?tab=repositories)
 
