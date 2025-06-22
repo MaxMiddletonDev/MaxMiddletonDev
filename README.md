@@ -27,8 +27,14 @@ University student passionate about becoming a Full Stack Developer. I enjoy pix
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxMiddletonDev&theme=tokyonight&hide_border=true" alt="Max's GitHub Streak" />
+</p>
+
+---
+
 <a href="https://www.linkedin.com/in/max-middleton-8643462a6/">
-    <img src="https://github.com/user-attachments/assets/dff4400d-71d9-48a3-a7f6-9b1c62d5936e" alt="CONNECT-WITH-ME">
+    <img src="https://github.com/user-attachments/assets/4df9e42b-320d-4bda-9b5e-08869f3020cf" alt="CONNECT-WITH-ME">
 </a>
 
-
+---
