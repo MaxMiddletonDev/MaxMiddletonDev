@@ -27,5 +27,9 @@ University student passionate about becoming a Full Stack Developer. I enjoy pix
 
 ---
 
+<a href="https://www.linkedin.com/in/max-middleton-8643462a6/">
+    <img src="https://github.com/user-attachments/assets/93b2b008-d5ea-494e-a22d-4755686d503c" alt="CONNECT-WITH-ME">
+</a>
+
 
 
