@@ -1,3 +1,8 @@
+![MaxMiddletonDevBanner](https://github.com/user-attachments/assets/51c3ab52-7fa8-4937-9b6d-2e7ed4442188)
+
+
+---
+
 # MAX MIDDLETON👨🏻‍💻
 
 **`SOFTWARE ENGINEERING STUDENT`**
@@ -17,5 +22,10 @@ University student passionate about becoming a Full Stack Developer. I enjoy pix
 ### TOOLS
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+
+<br />
+
+---
+
 
 
