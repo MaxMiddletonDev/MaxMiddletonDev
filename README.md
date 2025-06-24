@@ -7,7 +7,7 @@
 
 **`SOFTWARE ENGINEERING STUDENT`**
 
-University student passionate about becoming a Full Stack Developer. I enjoy pixel art, poster design, and building code for efficiency and convenience. Eager to explore new technologies and refine my craft in front-end and back-end.
+University student passionate about becoming a Software Engineer. I enjoy pixel art, poster design, and building code for efficiency and convenience. Eager to explore new technologies and refine my craft in front-end and back-end.
 
 ---
 
