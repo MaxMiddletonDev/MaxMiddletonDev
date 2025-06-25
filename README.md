@@ -3,7 +3,7 @@
 
 ---
 
-# MAX MIDDLETON👨🏻‍💻
+# MAX MIDDLETON 👨🏻‍💻
 
 **`SOFTWARE ENGINEERING STUDENT`**
 
@@ -11,19 +11,27 @@ University student passionate about becoming a Software Engineer. I enjoy pixel 
 
 ---
 
-### LANGUAGES
-
+### LANGUAGES 🧠
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 <img align="left" alt="C Sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Java Script" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <br />
 
-### TOOLS
+### TOOLS 🛠️
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-
 <br />
+
+---
+
+## CURRENT PROJECTS 🚧
+
+### [FINDYOURKICKS ](https://maxmiddletondev.github.io/FINDYOURKICKS/)
+
+>**FINDYOURKICKS** is a sneaker catalog and discovery app that lets users explore trending footwear with ease. It’s built with a responsive layout and simple, clean interface that works across all devices.
+>
+>**Tech:** HTML5, CSS3, JavaScript
 
 ---
 
