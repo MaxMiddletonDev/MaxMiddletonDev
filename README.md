@@ -3,7 +3,9 @@
 
 ---
 
-# MAX MIDDLETON 👨🏻‍💻
+<img align="right" alt="Max Middleton Profile Picture" width="150px" style="padding-right:20px; padding-bottom:20px;" src="https://github.com/user-attachments/assets/18fdc83e-4c68-40c4-8f35-7f666661b5bf"/>
+
+### **MAX MIDDLETON 👨🏻‍💻**
 
 **`SOFTWARE ENGINEERING STUDENT`**
 
