@@ -27,14 +27,19 @@ University student passionate about becoming a Software Engineer. I enjoy pixel 
 
 ---
 
-## CURRENT PROJECTS 🚧
+## PROJECTS 🚧
 
-### [FINDYOURKICKS ](https://maxmiddletondev.github.io/FINDYOURKICKS/)
+### [FINDYOURKICKS](https://maxmiddletondev.github.io/FINDYOURKICKS/)
 
->**FINDYOURKICKS** is a sneaker catalog and discovery app that lets users explore trending footwear with ease. It’s built with a responsive layout and simple, clean interface that works across all devices.
+>[**FINDYOURKICKS**](https://github.com/MaxMiddletonDev/FINDYOURKICKS) is a sneaker catalog and discovery app that lets users explore trending footwear with ease. It’s built with a responsive layout and simple, clean interface that works across all devices.
 >
 >**Tech:** HTML5, CSS3, JavaScript
 
+### [DIGICODE](https://github.com/MaxMiddletonDev/DIGICODE)
+
+>[**DIGICODE**](https://github.com/MaxMiddletonDev/DIGICODE)  is a stylish, pixel-art QR code generator. Quickly create scannable codes in a pixel art environment which is a showcase of my art.
+>
+>**Tech:** HTML5, CSS3, JavaScript
 ---
 
 <a href="https://www.linkedin.com/in/max-middleton-8643462a6/">
