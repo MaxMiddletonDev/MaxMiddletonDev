@@ -35,7 +35,7 @@ University student passionate about becoming a Software Engineer. I enjoy pixel 
 >
 >**Tech:** HTML5, CSS3, JavaScript
 
-### [DIGICODE](https://github.com/MaxMiddletonDev/DIGICODE)
+### [DIGICODE](https://maxmiddletondev.github.io/DIGICODE/)
 
 >[**DIGICODE**](https://github.com/MaxMiddletonDev/DIGICODE)  is a stylish, pixel-art QR code generator. Quickly create scannable codes in a pixel art environment which is a showcase of my art.
 >
