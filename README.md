@@ -29,9 +29,9 @@ University student passionate about becoming a Software Engineer. I enjoy pixel 
 
 ## PROJECTS 🚧
 
-### [FINDYOURKICKS](https://maxmiddletondev.github.io/FINDYOURKICKS/)
+### [RETROCLICKER](https://maxmiddletondev.github.io/RetroClicker/)
 
->[**FINDYOURKICKS**](https://github.com/MaxMiddletonDev/FINDYOURKICKS) is a sneaker catalog and discovery app that lets users explore trending footwear with ease. It’s built with a responsive layout and simple, clean interface that works across all devices.
+>[**RETRO CLICKER**](https://github.com/MaxMiddletonDev/RetroClicker) is a simple Retro Clicker Game I designed in order to learn canvas in JS. It is responsive but would still recommend using on PC/LAPTOP.
 >
 >**Tech:** HTML5, CSS3, JavaScript
 
