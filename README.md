@@ -20,7 +20,10 @@
       <h4>CURRENT FOCUS</h4>
       <br>
       <b>IT Applications Intern @ TIP Group</b><br>
-      Researching, breaking down tasks, and collaborating with different departments to complete assigned IT projects.<br><br>
+      Researching, breaking down tasks, and collaborating with different departments on IT projects, with a current focus on developing AI Agents using Copilot and Foundry.<br><br>
+      <br>
+      <b>Creating AI Systems</b><br>
+      Designing and building intelligent AI systems for various applications outside of my internship.<br><br>
       <br>
       <b>Building CRUD Apps</b><br>
       Learning how to build more effective and practical CRUD applications.<br><br>
@@ -70,3 +73,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
